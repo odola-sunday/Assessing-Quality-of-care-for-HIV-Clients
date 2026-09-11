@@ -1,7 +1,7 @@
 # Quality of Care for HIV Clients
 
-## 1. Project Overview
-This project assesses the quality of HIV service delivery and client outcomes across Primary, Secondary, and Tertiary health facilities.  
+## 1. Overview
+This study assessed the quality of HIV service delivery and client outcomes across Primary, Secondary, and Tertiary health facilities.  
 The analysis focuses on data completeness, service coverage, viral load suppression, retention, adherence, and efficiency to identify gaps and inform program improvement.
 
 ## 2. Purpose & Scope
