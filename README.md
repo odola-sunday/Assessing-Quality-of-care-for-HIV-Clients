@@ -1,6 +1,6 @@
 # Quality of Care for HIV Clients
 
-<img width="608" height="340" alt="Image" src="https://github.com/user-attachments/assets/9d09acb8-2923-4a90-9fb4-7c7d79d9cc0d" />
+
 
 ## 1. Overview
 This study assessed the quality of HIV service delivery and client outcomes across Primary, Secondary, and Tertiary health facilities.  
