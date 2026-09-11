@@ -1,12 +1,8 @@
-# Quality of Care for HIV Clients - Lagos State
+# Quality of Care for HIV Clients
 
 ## 1. Project Overview
-This project assesses the quality of HIV service delivery and client outcomes across Primary, Secondary, and Tertiary health facilities in Lagos State.  
+This project assesses the quality of HIV service delivery and client outcomes across Primary, Secondary, and Tertiary health facilities.  
 The analysis focuses on data completeness, service coverage, viral load suppression, retention, adherence, and efficiency to identify gaps and inform program improvement.
-
-**Reporting Period**: 2026  
-**Location**: Lagos State, Nigeria  
-**Data Source**: Facility EMR / HIV Dashboard
 
 ## 2. Purpose & Scope
 
@@ -102,22 +98,9 @@ outputs/
   Executive_Summary_Quality_of_Care.pdf
 README.md
 
-## 8. How to Use
-1. Open analysis/quality_of_care_analysis.ipynb for full data cleaning and visualization code
-2. Review charts/ folder for all 7 charts referenced in the summary
-3. See outputs/Executive_Summary_Quality_of_Care.pdf for report-ready version
 
-Requirements: Python 3.9+, pandas, matplotlib, openpyxl
-
-## 9. Authors & Contact
-Prepared by: [Your Name]  
-Organization: BENSACA / Implementing Partner  
-
-I'm open if you want us to connect: You can reach me via email (odolasunday2050@gmail.com)
-Date: September 2026  
-Contact: [your.email@org.ng]
-
-For questions on methodology or data requests, please contact the M&E team.
+I'm open if you want us to connect
+You can reach me via email: [odolasunday2050@gmail.com]
 
 ## 10. Disclaimer
 This analysis is based on facility EMR data as of September 2026. Results are for program improvement purposes and should be triangulated with other data sources.
