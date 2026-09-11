@@ -80,24 +80,6 @@ However, retention challenges including ART interruption, poor adherence, and LT
 - Implement hub-and-spoke or integrated PHC models to increase client load
 - Replicate DSD and staffing best practices from Secondary facilities
 
-## 7. Files in this Repository
-data/
-  hiv_dashboard_extract.csv
-  facility_metadata.csv
-charts/
-  fig1_service_coverage.png
-  fig2_vls_distribution.png
-  fig3_art_interruption.png
-  fig4_ltfu_reasons.png
-  fig5_adherence.png
-  fig6_data_completeness.png
-  fig7_cost_proxy.png
-analysis/
-  quality_of_care_analysis.ipynb
-outputs/
-  Executive_Summary_Quality_of_Care.pdf
-README.md
-
 
 I'm open if you want us to connect
 You can reach me via email: [odolasunday2050@gmail.com]
