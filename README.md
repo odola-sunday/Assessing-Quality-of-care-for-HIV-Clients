@@ -86,5 +86,7 @@ However, retention challenges including ART interruption, poor adherence, and LT
 I'm open if you want us to connect
 You can reach me via email: [odolasunday2050@gmail.com]
 
+https://www.linkedin.com/in/odola-sunday-912228159/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Budzo8IYtQremknN8CvN%2FDg%3D%3D
+
 ## 10. Disclaimer
 This analysis is based on facility EMR data as of September 2026. Results are for program improvement purposes and should be triangulated with other data sources.
